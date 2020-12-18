@@ -1,0 +1,4 @@
+src_glob_patterns: ["cmd/*", "internal/**/*"]
+warning_age_days: 30
+jira_address: "https://myjira.com/"
+github_repo_address: "https://github.com/neprune/todo-demo/"
